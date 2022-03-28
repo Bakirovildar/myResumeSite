@@ -1,0 +1,38 @@
+.hero__section  {
+    padding-top: 220px;
+}
+
+.hire__btn {
+    background: #fff;
+    color: #0e1b31;
+}
+
+.hire__btn a {
+    text-decoration: none;
+    font-weight: 500;
+}
+
+.hire__btn:hover a {
+    color: #0e1b31;
+}
+
+.hero__title span {
+    color: #7865ff;
+}
+
+.hero__title {
+    font-weight: 600;
+}
+
+.hero__img {
+    width: 300px;
+    height: 400px;
+    border-radius: 10px;
+    background: #7865ff;
+    margin-left: auto;
+}
+
+.hero__content p {
+    line-height: 30px;
+    font-weight: 300;
+}

@@ -1,0 +1,19 @@
+.single__info-box {
+    background: #132247;
+    padding: 10px;
+    border-radius: 5px;
+    border-bottom: 1px solid #7865ff;
+    margin-bottom: 15px;
+}
+
+.single__info-box p {
+    font-weight: 300;
+    margin-top: 10px;
+    font-size: .9rem;
+    margin-bottom: 0;
+}
+
+.single__info-box h6 {
+    font-size: 1.1rem;
+
+}

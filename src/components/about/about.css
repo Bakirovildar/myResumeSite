@@ -1,0 +1,53 @@
+.about__btns {
+    background: #102048;
+    border-radius: 10px;
+}
+
+.about__btn {
+    border: none;
+    outline: none;
+    width: 100%;
+    padding: 20px;
+    color: #fff;
+    background: transparent;
+    border-bottom: 1px solid #7865ff;
+    border-radius: 5px 5px 0 0;
+}
+
+.about__btn__active {
+    background: #7865ff;
+}
+
+.about__btn:last-child {
+    border-bottom: 0;
+    border-radius: 0 0 5px 5px;
+}
+
+.about__content__wrapper {
+    background: #132247;
+    padding: 30px;
+    border-radius: 10px;
+}
+
+.about__content h2 {
+    margin-bottom: 15px;
+}
+
+.about__content p {
+    line-height: 30px;
+    font-weight: 300;
+}
+
+.social__links span a i {
+    color: #7865ff;
+}
+
+.about__img {
+    border-radius: 10px;
+    height: 192px;
+}
+
+.social__links span {
+    margin-top: 10px;
+    margin-right: 15px;
+}

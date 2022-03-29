@@ -1,21 +1,22 @@
 {
   "files": {
     "main.css": "/myResumeSite/static/css/main.5f7841ba.css",
-    "main.js": "/myResumeSite/static/js/main.56e08671.js",
+    "main.js": "/myResumeSite/static/js/main.fed118f4.js",
     "static/media/Portfolio2.png": "/myResumeSite/static/media/Portfolio2.4fe5453a744d6b61c20b.png",
     "static/media/remixicon.svg?t=1590207869815": "/myResumeSite/static/media/remixicon.9cedd2150922ead84869.svg",
     "static/media/Portfolio1.png": "/myResumeSite/static/media/Portfolio1.24a1f2187121eacac23e.png",
     "static/media/remixicon.eot?t=1590207869815": "/myResumeSite/static/media/remixicon.5cb99e6cba5a4619063f.eot",
     "static/media/remixicon.ttf?t=1590207869815": "/myResumeSite/static/media/remixicon.f2616f597cf98f38d234.ttf",
+    "static/media/Portfolio3.png": "/myResumeSite/static/media/Portfolio3.6fb2b57f6ee86579c61b.png",
     "static/media/remixicon.woff?t=1590207869815": "/myResumeSite/static/media/remixicon.8d09fa11700ed63cf96e.woff",
     "static/media/remixicon.woff2?t=1590207869815": "/myResumeSite/static/media/remixicon.90668f6f9b3c2c18a090.woff2",
     "static/media/hero-img.png": "/myResumeSite/static/media/hero-img.d1c23ca1aa707b86b9d3.png",
     "index.html": "/myResumeSite/index.html",
     "main.5f7841ba.css.map": "/myResumeSite/static/css/main.5f7841ba.css.map",
-    "main.56e08671.js.map": "/myResumeSite/static/js/main.56e08671.js.map"
+    "main.fed118f4.js.map": "/myResumeSite/static/js/main.fed118f4.js.map"
   },
   "entrypoints": [
     "static/css/main.5f7841ba.css",
-    "static/js/main.56e08671.js"
+    "static/js/main.fed118f4.js"
   ]
 }

@@ -42,9 +42,33 @@ const About = () => {
                             </div>
                             <div className="about__content w-75">
                                 <h2>Меня зовут Ильдар</h2>
-                                <p>Я junior frontend developer. Свое обучение к фронтенд разработке я начал с учебника
-                                    'Head First JavaScript'. Затем я прошел
-                                    авторский курс Владилена Минина по JavaScript и позже React.js. Параллельно выполнял различные Pet-проекты, с которыми можете ознакомиться в моем <a
+                                <p>Здравствуйте, я frontend разработчик. <br/>
+
+                                    Опыт коммерческой разработки больше года (работа в маленькой it-компании и frelance) <br/>
+
+                                    В it-компании разрабатывал мобильное приложение, которую по итогу выложил в google Play (<a
+                                        href="https://play.google.com/store/apps/details?id=rf.online.documeny.app">https://play.google.com/store/apps/details?id=rf.online.documeny.app</a>) <br/>
+
+                                    Во freelance разработал игру (web приложение), в открытом доступе нет. <br/><br/>
+
+                                    Мои работы можете посмотреть в gitHub (<a href="https://github.com/Bakirovildar?tab=repositories">https://github.com/Bakirovildar?tab=repositories</a>)<br/>
+
+                                    Хочу разрабатывать на React. Стремлюсь к написанию чистого кода.<br/><br/>
+
+                                    Список моих работ, которые можно посмотреть:<br/>
+                                    - <a href="https://bakirovildar.github.io/store/">https://bakirovildar.github.io/store/</a><br/>
+                                    - <a href="https://bakirovildar.github.io/myResumeSite/">https://bakirovildar.github.io/myResumeSite/</a><br/>
+                                    - <a href="https://bakirovildar.github.io/tasks">https://bakirovildar.github.io/tasks</a><br/>
+                                    - <a href="https://bakirovildar.github.io/Kanban-board/">https://bakirovildar.github.io/Kanban-board/</a><br/><br/>
+
+                                    Есть сертификат обучения на Skillbox (React разработчик 07.2022 - 10.2022)<br/><br/>
+
+                                    Уверенное знание HTML5, CSS (SCSS), JavaScript, TypeScript, React, Redux, Vue, Vuex, Webpack,<br/>
+                                    OAuth2.0, JSON Web Token, Next.js, Figma, Quasar, адаптивная верстка, Axios, Linux.<br/><br/>
+
+                                    Опыт работы с Git, Jira<br/>
+                                    умение работать в команде.<br/>
+                                    <a
                                         href="https://github.com/Bakirovildar?tab=repositories">Git репозитории</a></p>
                                 <div className="social__links">
                                     <h6>Свяжитесь со мной:</h6>

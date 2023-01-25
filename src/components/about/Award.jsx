@@ -4,7 +4,7 @@ import './award.css'
 const Award = () => {
     return <div className='award__container d-flex align-items-center gap-5'>
         <div className='award__item'>
-            <AwardItem year='2021' title='Лучшему специалисту' text='За стремление улучшить свои знания в сфере IT'/>
+            <AwardItem year='2022' title='Лучшему специалисту' text='За стремление улучшить свои знания в сфере IT'/>
         </div>
     </div>
 

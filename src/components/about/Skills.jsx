@@ -4,18 +4,18 @@ import './skills.css'
 const frontendSkill = [
     {
         title: 'JavaScript',
-        width: '75%',
-        percentage: '75%'
+        width: '80%',
+        percentage: '80%'
     },
     {
         title: 'React.js',
-        width: '75%',
-        percentage: '75%'
+        width: '80%',
+        percentage: '80%'
     },
     {
         title: 'TypeScript',
-        width: '65%',
-        percentage: '65%'
+        width: '80%',
+        percentage: '80%'
     },
     {
         title: 'NodeJS',
@@ -24,8 +24,8 @@ const frontendSkill = [
     },
     {
         title: 'Bootstrap',
-        width: '65%',
-        percentage: '65%'
+        width: '75%',
+        percentage: '75%'
     },
     {
         title: 'Git',

@@ -17,14 +17,21 @@ const Education = () => {
                 <th>JavaScript</th>
                 <th>Авторский курс Владилена Минина</th>
                 <th>JavaScript 2021 - Полное Руководство с Нуля до Профи</th>
-                <th>2020-2021</th>
+                <th>2021</th>
             </tr>
 
             <tr>
                 <th>React</th>
                 <th>Авторский курс Владилена Минина</th>
                 <th>React JS с Нуля до Профи. Полное руководство</th>
-                <th>2020-2021</th>
+                <th>2021</th>
+            </tr>
+
+            <tr>
+                <th>React</th>
+                <th>Skillbox</th>
+                <th>React разработчик</th>
+                <th>07.2022-10.2022</th>
             </tr>
             </tbody>
         </table>

@@ -15,7 +15,7 @@ const HeroSection = () => {
             showCursor: true,
             strings: [
                 'Бакиров Ильдар',
-                'Junior Frontend разработчик',
+                'Frontend разработчик!',
             ]
         })
     }, [])
@@ -28,16 +28,16 @@ const HeroSection = () => {
                 <Col lg='6' md='6'>
                     <div className="hero__content">
                         <p className='mb-3'>Добро пожаловать в мой мир!</p>
-                        <h2 className='hero__title mb-4'>Я <span ref={textRef}></span></h2>
+                        <h2 className='hero__title mb-4' style={{height: '100px'}}>Я <span ref={textRef}></span></h2>
                         <p>- умею работать в команде <br/>
                             - быстро обучаюсь <br/>
-                            - стараюсь осваивать новые технологии <br/>
+                            - осваиваю новые технологии <br/>
                             - ответственно выполняю поставленные задачи <br/>
                             <br/>
                             На этом сайте Вы сможете узнать подробнее о моих навыках, опыте и связаться со мной для дальнейшего сотрудничества.
                         </p>
                         <div className="mt-4 hero__btns d-flex align-items-center gap-4">
-                            <button className="btn"><a href="#contact" className='text-decoration-none'>Контакты</a></button>
+                            <a href="#contact" className='text-decoration-none'><button className="btn">Контакты</button></a>
                         </div>
                     </div>
                 </Col>

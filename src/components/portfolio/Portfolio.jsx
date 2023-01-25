@@ -5,6 +5,7 @@ import { Container, Row, Col } from "reactstrap";
 
 import img1 from '../../assests/Portfolio1.png'
 import img2 from '../../assests/Portfolio2.png'
+import img3 from  '../../assests/Portfolio3.png'
 
 const portfolioData = [
     {
@@ -18,6 +19,12 @@ const portfolioData = [
         title: 'React Single Page Application',
         url: 'https://bakirovildar.github.io/store/'
     },
+
+    {
+        imgUrl: img3,
+        title: 'Портфолио на GitHub',
+        url: 'https://github.com/Bakirovildar?tab=repositories'
+    }
 ]
 
 const Portfolio = () => {

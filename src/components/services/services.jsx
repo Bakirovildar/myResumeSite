@@ -5,19 +5,19 @@ import {Container, Row, Col} from "reactstrap";
 
 const serviceData = [
     {
-        icon: 'ri-code-line',
-        title: 'Frontend-разработка',
-        desc: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugiat labore maiores molestia'
+        icon: 'ri-code-s-slash-line',
+        title: 'Web разработка',
+        desc: 'Используемые технологии: Адаптивная верстка, HTML, CSS, JS, TS, React, Redux, API, OAuth2.0, JSON Web Token, Figma'
     },
     {
-        icon: 'ri-code-s-slash-line',
-        title: 'Frontend-разработка',
-        desc: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugiat labore maiores molestia'
+        icon: 'ri-code-line',
+        title: 'Мобильная разработка',
+        desc: 'Используемые технологии: Адаптивная верстка, HTML, CSS, JS, TS, Vue, Vuex, Quasar, API, OAuth2.0, JSON Web Token, Figma'
     },
     {
         icon: 'ri-search-line',
         title: 'Frontend-разработка',
-        desc: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugiat labore maiores molestia'
+        desc: 'Адаптивная верстка, HTML, CSS, JS, TS, React, Redux, Vue, Vuex, Quasar, API, OAuth2.0, JSON Web Token, Figma'
     }
 ]
 
